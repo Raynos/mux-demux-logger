@@ -5,4 +5,4 @@ MuxDemux(logger(function (stream) {
     stream.on("data", function (data) {
         stream.write("echo" + data)
     })
-}, true), 8642)
+}), 8642)

@@ -2,7 +2,7 @@ module.exports = logger
 
 function logger(f, log) {
     return function (stream) {
-        if (log) {
+        if (log !== false) {
             console.log("[STREAM-RECEIVED]", JSON.stringify({
                 meta: stream.meta
                 , id: stream.id

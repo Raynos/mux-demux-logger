@@ -1,0 +1,30 @@
+{
+  "name": "mux-demux-logger",
+  "version": "0.0.1",
+  "description": "Intercept mdm streams and log them",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/mux-demux-logger.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/mux-demux-logger",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/mux-demux-logger/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "mux-demux-net": "0.0.2"
+  },
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/mux-demux-logger/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}

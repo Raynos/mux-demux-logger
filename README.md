@@ -1,4 +1,4 @@
-# mux-demux-logger [![build status][1]][2]
+# mux-demux-logger
 
 Intercept mdm streams and log them
 

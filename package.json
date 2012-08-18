@@ -1,6 +1,6 @@
 {
   "name": "mux-demux-logger",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Intercept mdm streams and log them",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
